@@ -1,3 +1,7 @@
-# algorithms
+# Algorithms
 
-start Here
+## Javascript
+* Linear Search 
+
+## Python
+* Linear Search 
